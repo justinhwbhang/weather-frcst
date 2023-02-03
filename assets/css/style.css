@@ -1,0 +1,28 @@
+.jumbotron {
+    width: 100vw;
+    height: 12.5vh;
+    background-color: blue;
+    background-image: linear-gradient(90deg, rgb(0, 166, 255), darkblue);
+}
+
+.forecast-card {
+    background-color: darkblue;
+}
+
+.today-weather-card {
+    background-color: #f8f9fa!important;
+    border: 1px solid rgba(0,0,0,.125);
+    padding: 1.5rem;
+}
+
+.safe {
+    background-color: green;
+}
+
+.questionable {
+    background-color: yellow;
+}
+
+.dangerous {
+    background-color: red;
+}
