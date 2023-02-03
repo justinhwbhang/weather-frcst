@@ -1,4 +1,4 @@
-var API_KEY = "api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key}"
+var API_KEY = "8b8287d16134fee6a692daeb7d339a3f"
 
 $("#search-form").on("submit", function (event) {
     event.preventDefault();
